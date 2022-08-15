@@ -40,19 +40,6 @@ body {
   padding-top: 350px;
 }
 
-/* Icons */
-.bi-eye {
-  color: #EFCB68;
-}
-
-.bi-bookmark-plus {
-  color: #EFCB68;
-}
-
-.bi-person-plus {
-  color: #EFCB68;
-}
-
 /* Search for Player */
 #search_field {
   height: 40px;
@@ -68,4 +55,17 @@ body {
   border: none;
   height: 40px;
   width: 100px;
+}
+
+/* Icons - Features */
+.bi-eye {
+  color: #EFCB68;
+}
+
+.bi-bookmark-plus {
+  color: #EFCB68;
+}
+
+.bi-person-plus {
+  color: #EFCB68;
 }/*# sourceMappingURL=main.css.map */

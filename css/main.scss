@@ -51,18 +51,7 @@ body{
   padding-top: 350px;
 }
 
-/* Icons */
-.bi-eye {
-  color: $second-color;
-}
 
-.bi-bookmark-plus {
-  color: $second-color;
-}
-
-.bi-person-plus {
-  color: $second-color;
-}
 
 
 
@@ -83,4 +72,18 @@ body{
   height: 40px;
   width: 100px;
 
+}
+
+
+/* Icons - Features */
+.bi-eye {
+  color: $second-color;
+}
+
+.bi-bookmark-plus {
+  color: $second-color;
+}
+
+.bi-person-plus {
+  color: $second-color;
 }
