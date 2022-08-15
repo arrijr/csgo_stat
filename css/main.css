@@ -1,9 +1,9 @@
 #navbar {
-  background-color: #232a30 !important;
+  background-color: #000411 !important;
 }
 
 body {
-  background-color: #8a8a8a;
+  background-color: #160C28;
 }
 
 #nav-container {
@@ -42,27 +42,28 @@ body {
 
 /* Icons */
 .bi-eye {
-  color: crimson;
+  color: #EFCB68;
 }
 
 .bi-bookmark-plus {
-  color: crimson;
+  color: #EFCB68;
 }
 
 .bi-person-plus {
-  color: crimson;
+  color: #EFCB68;
 }
 
 /* Search for Player */
 #search_field {
-  height: 39px;
+  height: 40px;
   border: none;
   position: relative;
+  padding-bottom: 2px;
 }
 
 #search_button {
   position: relative;
-  background-color: crimson;
+  background-color: #EFCB68;
   color: white;
   border: none;
   height: 40px;

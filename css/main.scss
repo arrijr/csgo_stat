@@ -1,7 +1,9 @@
-$main-color: #232a30;
-$second-color: crimson;
-$bg-color: #8a8a8a;
+$main-color: #000411;
+$second-color: #EFCB68;
+$bg-color: #160C28;
 $hover: #1985A1;
+$font-color: #E1EFE6;
+$third-color: #AEB7B3;
 
 
 #navbar{
@@ -67,9 +69,10 @@ body{
 /* Search for Player */
 
 #search_field {
-  height: 39px;
+  height: 40px;
   border: none;
   position: relative;
+  padding-bottom: 2px;
 }
 
 #search_button {
