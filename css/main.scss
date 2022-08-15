@@ -42,10 +42,7 @@ body{
   
 }
 
-#features {
-  margin-top: 30px;
-  margin-bottom: 5px;
-}
+
 
 #row_searchbar {
   padding-top: 350px;
@@ -76,6 +73,11 @@ body{
 
 
 /* Icons - Features */
+#features {
+  margin-top: 30px;
+  margin-bottom: 5px;
+}
+
 .bi-eye {
   color: $second-color;
 }
